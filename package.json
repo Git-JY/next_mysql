@@ -1,0 +1,20 @@
+{
+  "name": "mysql",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "debug": "^4.3.4",
+    "mysql": "^2.18.1",
+    "next": "13.5.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "supports-color": "^8.1.1"
+  }
+}
